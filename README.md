@@ -5,25 +5,25 @@
 ### 1. Download the project
 
 ```bash
-    wget -O ASPNETCore-CleanArchiBuilder-master.zip https://github.com/yussuf-codes/ASPNETCore-CleanArchiBuilder/archive/master.zip
+wget -O ASPNETCore-CleanArchiBuilder-master.zip https://github.com/yussuf-codes/ASPNETCore-CleanArchiBuilder/archive/master.zip
 ```
 
 ### 2. Unzip the project
 
 ```bash
-    unzip ASPNETCore-CleanArchiBuilder-master.zip
+unzip ASPNETCore-CleanArchiBuilder-master.zip
 ```
 
 ### 3. Navigate to the project directory
 
 ```bash
-    cd ASPNETCore-CleanArchiBuilder-master
+cd ASPNETCore-CleanArchiBuilder-master
 ```
 
 ### 4. Run the script
 
 ```bash
-    bash ASPNETCore-CleanArchiBuilder.sh <Solution Name>
+bash ASPNETCore-CleanArchiBuilder.sh <Solution Name>
 ```
 
 ## 🙏 Contribution
