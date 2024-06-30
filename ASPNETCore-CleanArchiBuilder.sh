@@ -20,7 +20,8 @@ dotnet sln add $1.Application
 dotnet sln add $1.Domain
 
 dotnet add $1.Application reference $1.Domain
+dotnet add $1.Application reference $1.Infrastructure
 dotnet add $1.Infrastructure reference $1.Application
-dotnet add $1.Presentation reference $1.Infrastructure
+dotnet add $1.Presentation reference $1.Application
 
 dotnet build
